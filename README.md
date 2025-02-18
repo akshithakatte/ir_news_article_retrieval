@@ -34,6 +34,9 @@ python news_ir.py
 
 3. Enter your search query when prompted
 
+![image](https://github.com/user-attachments/assets/d2b9b7c3-ee40-4269-a95e-1e0056085631)
+
+
 ## Project Structure
 
 - `news_ir.py`: Main IR system implementation
